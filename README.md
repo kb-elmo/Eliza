@@ -6,6 +6,8 @@
 
 <!--<img src="https://i.imgur.com/x00N9f3.jpg" alt="header" width="800"/>-->
 
+# This is completely untested! Use the files at your own risk!
+
 ---
 
 [STEP files for the case](case/)
