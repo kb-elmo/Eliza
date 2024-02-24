@@ -1,4 +1,4 @@
-# 3liza PCB
+# Eliza PCB
 
 ### Features
 
