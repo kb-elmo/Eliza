@@ -1,4 +1,4 @@
-# 3liza case
+# Eliza case
 
 ### These files are meant for 3D printing only! 
 

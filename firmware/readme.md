@@ -1,27 +1,28 @@
-# 3liza
+# Eliza
 
-![3liza](imgur.com image replace me!)
+![Eliza](https://i.imgur.com/OGpPhReh.jpeg)
 
-A 12u 40% alice-style ergo keyboard
+40% alice-style ergo keyboard with a 3D printed case.
 
 * Keyboard Maintainer: [kb-elmo](https://github.com/kb-elmo)
-* Hardware Supported: 3liza rev.1 PCB
-* Hardware Availability: [Open source project](https://github.com/kb-elmo/3liza)
+* Hardware Supported: Eliza rev.1 PCB
+* Hardware Availability: [Open source project](https://github.com/kb-elmo/eliza)
 
 Make example for this keyboard (after setting up your build environment):
 
-    make kb_elmo/3liza:default
+    make kb_elmo/eliza:default
 
 Flashing example for this keyboard:
 
-    make kb_elmo/3liza:default:flash
+    make kb_elmo/eliza:default:flash
 
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
+
 
 ## Bootloader
 
 Enter the bootloader in 3 ways:
 
 * **Bootmagic reset**: Hold down the top left key and plug in the keyboard
-* **Physical reset**: Briefly short the two contacts labeled "RESET" on the bottom of the PCB
+* **Physical reset**: Briefly short the two contacts labeled "RESET" on the back of the PCB
 * **Keycode in layout**: Press the key mapped to `RESET` if it is available

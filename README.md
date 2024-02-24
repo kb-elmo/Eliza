@@ -1,4 +1,4 @@
-# 3liza
+# Eliza
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]<a href="https://ko-fi.com/kb_elmo"><img src="https://i.imgur.com/9T0bvqO.png" alt="kofibadge" align="right"/></a>
 
@@ -6,7 +6,9 @@
 
 <!--<img src="https://i.imgur.com/x00N9f3.jpg" alt="header" width="800"/>-->
 
-# This is completely untested! Use the files at your own risk!
+### This board is still in the testing prototype phase. 
+#### Use the files at your own risk.
+
 
 ---
 
@@ -16,9 +18,9 @@
 
 [Gerbers for PCB production](pcb/gerbers/)
 
-[JLCPCB BOM](pcb/fab/3liza_bom_jlc.csv)
+[JLCPCB BOM](pcb/fab/Eliza_bom_jlc.csv)
 
-[JLCPCB CPL](pcb/fab/3liza_cpl_jlc.csv)
+[JLCPCB CPL](pcb/fab/Eliza_cpl_jlc.csv)
 
 [Vial-QMK firmware](firmware/)
 
